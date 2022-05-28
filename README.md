@@ -1,1 +1,1 @@
-# step-progress-bar
+## Step Progress Bar With Vanilla JavaScript
